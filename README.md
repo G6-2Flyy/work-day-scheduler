@@ -25,7 +25,7 @@ The Work Day Scheduler is a simple application that allows end users to save eve
 6. Refresh page.
 7. Notice that activity items are stored locally.
 
-Site: 
+Site: https://g6-2flyy.github.io/work-day-scheduler/
 
 ![alt text](./images/work_day_scheduler.png)
 
